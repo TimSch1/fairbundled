@@ -1,7 +1,7 @@
 import React from 'react';
 import ProductService from "../../services/ProductService";
 import {message} from 'antd';
-import ProductListCard from "../../components/ProductListCard";
+import ProductListCard from "../../components/ProductList/ProductList";
 
 export default class ProductListView extends React.Component {
 
